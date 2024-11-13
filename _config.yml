@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tao Wu / Site Title"
 title_separator          : "-"
 name                     : &name "Tao Wu"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "taowu-phd/taowu-phd.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tao Wu"
+  name             : "Tao Wu（吴涛）"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Changsha, China"
