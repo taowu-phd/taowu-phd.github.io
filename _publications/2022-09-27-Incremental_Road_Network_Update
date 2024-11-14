@@ -1,0 +1,13 @@
+---
+title: "Incremental Road Network Update Method with Trajectory Data and UAV Remote Sensing Imagery"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-09-27-Incremental_Road_Network_Update
+excerpt: 'This paper proposed and implemented an incremental update method for rapid road network checking and updating. A composite update framework for road networks is established, which integrates trajectory data and UAV remote sensing imagery.'
+date: 2022-9-27
+venue: 'September 27'
+paperurl: 'https://www.mdpi.com/2220-9964/11/10/502'
+citation: 'J. Qin, W. Yang, T. Wu, B. He, L. Xiang, "Incremental Road Network Update Method with Trajectory Data and UAV Remote Sensing Imagery," in <i>ISPRS International Journal of Geo-Information</i>, vol. 11, no. 10, pp. 502, 2022.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
