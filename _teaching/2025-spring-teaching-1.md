@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Hunan Normal University, Geographical Information Science"
-date: 2015-02-28
+date: 2025-02-28
 location: "Changsha, China"
 ---
 
