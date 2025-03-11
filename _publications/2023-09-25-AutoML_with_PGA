@@ -1,0 +1,13 @@
+---
+title: "AutoML With Parallel Genetic Algorithm for Fast Hyperparameters Optimization in Efficient IoT Time Series Prediction"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-09-25-AutoML_with_PGA
+excerpt: 'This article divided HPO into several stages, including population initialization, fitness function, tournament selection, crossover operators, mutation operators, subgroup exchange, and end of evolution.'
+date: 2023-9-25
+venue: 'September 25'
+paperurl: 'https://ieeexplore.ieee.org/document/9996560/'
+citation: 'D. Wu, Q. Guan, Z. Fan, H. Deng and T. Wu, "AutoML With Parallel Genetic Algorithm for Fast Hyperparameters Optimization in Efficient IoT Time Series Prediction," in <i>IEEE Transactions on Industrial Informatics</i>, vol. 9, no. 9, pp. 9555-9564, 2023.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

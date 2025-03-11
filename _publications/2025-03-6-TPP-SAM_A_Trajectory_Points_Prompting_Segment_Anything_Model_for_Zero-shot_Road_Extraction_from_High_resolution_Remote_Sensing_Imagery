@@ -1,0 +1,13 @@
+---
+title: "TPP-SAM: A Trajectory Points Prompting Segment Anything Model for Zero-shot Road Extraction from High-resolution Remote Sensing Imagery"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-03-6-TPP-SAM_A_Trajectory_Points_Prompting_Segment_Anything_Model_for_Zero-shot_Road_Extraction_from_High_resolution_Remote_Sensing_Imagery
+excerpt: 'This paper proposes an automated road extraction method called Trajectory Points Prompting SAM (TPP-SAM), which uses trajectory points as segmentation prompts for roads in HRSI, eliminating the need for complex manual prompts.'
+date: 2025-3-6
+venue: 'March 6'
+paperurl: 'https://ieeexplore.ieee.org/document/10916599'
+citation: 'T. Wu, Y. Hu, J. Qin, X. Lin, Y. Wan, "TPP-SAM: A Trajectory Points Prompting Segment Anything Model for Zero-shot Road Extraction from High-resolution Remote Sensing Imagery," in <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, early access, 2025.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

@@ -1,0 +1,13 @@
+---
+title: "Multisource Data Fusion With Graph Convolutional Neural Networks for Node‐Level Traffic Flow Prediction"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-12-7-Multisource_data_fusion
+excerpt: 'This paper introduces a multisource data fusion approach with graph convolutional neural networks (GCNs) for node‐level traffic flow prediction.'
+date: 2024-12-7
+venue: 'December 7'
+paperurl: 'https://onlinelibrary.wiley.com/doi/10.1155/atr/7109780'
+citation: 'L. Huang, J. Qin, T. Wu, "Multisource Data Fusion With Graph Convolutional Neural Networks for Node‐Level Traffic Flow Prediction," in <i>Journal of Advanced Transportation</i>, vol. 2024, no. 1, pp. 7109780, 2024.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
